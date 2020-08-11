@@ -7,12 +7,73 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "subhed",
+            "value": "1. <b>The classic: obstructed city views and repurposed household items too many buildings obstruct most window views, and the most unexpected places become homes for our random objects:</b>"
+          },
+          {
+            "type": "tiktok",
+            "value": {
+              "code": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@isaaclikes_/video/6818278742071266566\" data-video-id=\"6818278742071266566\" style=\"max-width: 605px;min-width: 325px;\" > <section> <a target=\"_blank\" title=\"@isaaclikes_\" href=\"https://www.tiktok.com/@isaaclikes_\">@isaaclikes_</a> <p>Things in my <a title=\"nyc\" target=\"_blank\" href=\"https://www.tiktok.com/tag/nyc\">##nyc</a> apartment that make no sense <a title=\"newyorkcity\" target=\"_blank\" href=\"https://www.tiktok.com/tag/newyorkcity\">##newyorkcity</a> <a title=\"apartmenttour\" target=\"_blank\" href=\"https://www.tiktok.com/tag/apartmenttour\">##apartmenttour</a> <a title=\"randomthings\" target=\"_blank\" href=\"https://www.tiktok.com/tag/randomthings\">##randomthings</a></p> <a target=\"_blank\" title=\"♬ 아무노래(Any song) - kozico0914\" href=\"https://www.tiktok.com/music/아무노래-Any-song-6781241671280659202\">♬ 아무노래(Any song) - kozico0914</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Still, sometimes the view of another building’s wall can achieve a certain type of aesthetic— - some would say it’s better than a painted- over white wall!"
+          },
+          {
+            "type": "subhed",
+            "value": "2. <b>Taking advantage of small spaces and equippingutilizing your kitchen with useful gadgets:</b>"
+          },
+          {
+            "type": "text",
+            "value": "Props out to this New Yorker  for these hacks, for theyit really saves kitchen space!"
+          },
+          {
+            "type": "subhed",
+            "value": "3. <b>This seems like a clearsimple no-no but you’d be surprised…</b>"
+          },
+          {
+            "type": "text",
+            "value": "Do you think it’s appropriate to have a window in your shower? Discuss."
+          },
+          {
+            "type": "subhed",
+            "value": "4. <b>A series of whole variety of unfortunate events:</b>"
+          },
+          {
+            "type": "text",
+            "value": "We’ve all had our fair share of facility requests that we submitted while living in the dorms. That hole in the bathroom is quite unfortunate, though."
+          },
+          {
+            "type": "subhed",
+            "value": "5. <b>And our favorite...</b>"
+          },
+          {
+            "type": "text",
+            "value": "There’s just too much relatability in this— - from awkward spaces to growing fungi, and of course, the yummy cockroach."
+          },
+          {
+            "type": "text",
+            "value": "<b>But fret no more! </b><b>Monarch Heights</b><b> offers you a living space that is </b><b>private, space-efficient, and roach-free:</b>"
+          },
+          {
+            "type": "text",
+            "value": "Insert monarch heights tiktok here"
+          },
+          {
+            "type": "text",
+            "value": "Good luck searching for your new living space! We believe that no matter the housing obstacles, New Yorkers find a way to overcome everything."
+          }
+        ],
+        "headline": "Five TikToks That Only True New Yorkers Will Understand",
+        "deck": "We’ve all been there— looking at the beautiful facadewall of a neighboring building from our dorm room window , objects piling up due to abecause of lack of space to organize our things, and other New York CityNYC apartment quirks. Now, many of us are looking for off-campus housing, and weighing the pros and cons of various living spaces. We’ve compiled a list of five5 TikToks for your viewing pleasure that only true New Yorkers will understand:",
         "USE_NEWS_NAV": false,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/16GzqIRXfdpu4GUAHtLTB1hujj2YlSLSlXYxmb20MvuM/edit?usp=sharing"
       }
     }
   }
