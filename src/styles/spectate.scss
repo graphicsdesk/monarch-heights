@@ -234,6 +234,122 @@ header {
     font-weight: 400;
   }
 }
+/* Paid Post */
+#paid_bg {
+  display: flex;
+  width: 100%;
+  position: fixed;
+  font-family: $graphik;
+  font-size: 1.2rem;
+  height: 3rem;
+  border-bottom: 0.225rem solid #C0C0C0;
+  z-index: 100;
+  flex-direction: row;
+  background-color:#D3D3D3;
+}
+
+#paid_img {
+  height: 1.25rem;
+  align-items: center;
+}
+
+#speclogo {
+  height: 2.25rem;
+  align-items: center;
+}
+
+#paid_paid {
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  width: 33%;
+}
+
+#paid_spec {
+  font-weight: 400;
+  display: flex;
+  flex-direction: row;
+  width: 33%;
+  align-items: center;
+  letter-spacing: 0.06em;
+}
+
+#sbs {
+  font-weight: 400;
+  display: flex;
+  flex-direction: row;
+  //width: 33%;
+  align-items: center;
+  letter-spacing: 0.06em;
+}
+
+#paid_what {
+  font-weight: 600;
+  font-size: 1.1rem;
+  letter-spacing: 0.05em;
+  width: 34%;
+  display: flex;
+  //position: absolute;
+  align-self: center;
+  justify-content: flex-end;
+}
+
+.popup {
+  position: relative;
+  display: flex;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.popup .popuptext {
+  visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  font-family: $graphik;
+  font-weight: 100;
+  font-size: 1.2rem;
+  height: 40%;
+  background-color: #fff;
+  color: #000;
+  border-radius: 2rem;
+  border: 1rem solid white;
+  text-align: center;
+  padding: 5% 5% 5% 5%;
+  position: fixed;
+  top: 15%;
+  left: 20%;
+  z-index: 100000;
+  opacity: 1;
+}
+
+.popup .popupbackground {
+  visibility: hidden;
+  justify-content: center;
+  width: 100%;
+  position: fixed;
+  height: 100%;
+  background-color: black;
+  top: 0%;
+  left: 0%;
+  opacity: 0.5;
+  z-index: 1000;
+}
+
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
 
 /* Navbar */
 

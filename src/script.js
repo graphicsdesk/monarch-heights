@@ -34,6 +34,14 @@ export function hamburgerTrigger() {
   navbar.classList.toggle('show-nav-links');
 }
 
+export function whatsThis() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+  
+  var popup = document.getElementById("myPopup2");
+  popup.classList.toggle("show");
+}
+
 // Text balance headline, deck, and image captions
 
 if (window.innerWidth <= 460) {
