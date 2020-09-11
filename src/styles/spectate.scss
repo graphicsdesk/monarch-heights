@@ -105,9 +105,9 @@ b {
   width: 100%;
   position: fixed;
   font-family: $graphik;
-  font-size: 1.2rem;
-  height: 4rem;
-  margin-top: -0.5rem;
+  font-size: 1.6rem;
+  height: 5rem;
+  margin-top: -1rem;
   border-bottom: 0.225rem solid #C0C0C0;
   z-index: 100;
   flex-direction: row;
@@ -264,9 +264,12 @@ b {
 .entry-title{margin-left: -22px;}
 }
 
-.blockquote {
-  background-color: red;
-  padding: 20px;
+blockquote {
+  left: 0% !important;
+  margin-right: 0% !important;
+  float: none !important;
+  background-color: red !important;
+  padding: 20px !important;
 }
 
 /* Styling the cover and cover-hed */
