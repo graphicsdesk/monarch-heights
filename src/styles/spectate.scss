@@ -151,6 +151,10 @@ b {
     //margin-right: -0.75rem;
   }
 }
+
+#bs {
+  padding-top: 0.5rem;
+}
  
 #paid_spec {
   font-weight: 400;
@@ -183,7 +187,7 @@ b {
  
 #paid_what {
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.6rem;
   @media (max-width: 660px) {
     font-size: 0.9rem;
   }
@@ -215,7 +219,7 @@ b {
   width: 50%;
   font-family: $graphik;
   font-weight: 100;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   height: 50%;
   background-color: #fff;
   color: #000;
