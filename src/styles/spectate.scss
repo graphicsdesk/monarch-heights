@@ -106,7 +106,8 @@ b {
   position: fixed;
   font-family: $graphik;
   font-size: 1.2rem;
-  height: 3rem;
+  height: 4rem;
+  margin-top: -0.5rem;
   border-bottom: 0.225rem solid #C0C0C0;
   z-index: 100;
   flex-direction: row;
@@ -130,7 +131,7 @@ b {
   align-items: center;
   @media (max-width: 780px) {
     margin-bottom: -0.7rem;
-    padding-top: 0.5rem;
+    padding-top: 0.95rem;
     height: 1.35rem;
   }
 }
@@ -145,7 +146,7 @@ b {
   @media (max-width: 660px) {
     //flex-direction: column;
     letter-spacing: 0.07em;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     text-align: right;
     //margin-right: -0.75rem;
   }
@@ -184,7 +185,7 @@ b {
   font-weight: 600;
   font-size: 1.1rem;
   @media (max-width: 660px) {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
   }
   letter-spacing: 0.05em;
   width: 34%;
@@ -228,7 +229,7 @@ b {
   z-index: 100000;
   opacity: 1;
   @media (max-width: 780px) {
-    font-size: 0.75rem;
+    font-size: 0.95rem;
     width: 60%;
     height: 60%;
     top: 15%;
@@ -253,6 +254,14 @@ b {
   visibility: visible;
   -webkit-animation: fadeIn 1s;
   animation: fadeIn 1s;
+}
+
+.single-post blockquote.tiktok-embed:before{display: none;}
+@media (max-width: 767px) {
+.entry-title{padding-left: 20px;}
+}
+@media (max-width: 320px) {
+.entry-title{margin-left: -22px;}
 }
 
 
