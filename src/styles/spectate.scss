@@ -271,6 +271,9 @@ b {
 blockquote {
   left: 0% !important;
   float: none !important;
+  @media (max-width: 780px) {
+    left: -1rem !important;
+  }
 }
 
 /* Styling the cover and cover-hed */
