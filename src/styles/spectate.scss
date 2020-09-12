@@ -272,8 +272,12 @@ blockquote {
   left: 0% !important;
   float: none !important;
   @media (max-width: 780px) {
-    left: -1rem !important;
+    width: 80% !important;
   }
+}
+
+.h1 #headline {
+  text-align: center;
 }
 
 /* Styling the cover and cover-hed */
@@ -344,6 +348,7 @@ header {
   #headline {
     margin: 50px 0 20px;
     font-size: 45px;
+    text-align: center;
     line-height: 1.15;
     font-weight: 500;
     font-family: Playfair Display;
@@ -379,6 +384,7 @@ header {
   header #headline {
     font-size: 38px;
     margin-bottom: 10px;
+    text-align: center;
   }
 }
 
