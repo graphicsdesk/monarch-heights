@@ -146,14 +146,14 @@ b {
   @media (max-width: 660px) {
     //flex-direction: column;
     letter-spacing: 0.07em;
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     text-align: right;
     //margin-right: -0.75rem;
   }
 }
 
 #bs {
-  padding-top: 0.5rem;
+  padding-top: 0.95rem;
 }
  
 #paid_spec {
@@ -169,7 +169,7 @@ b {
     padding-left: 0.6rem;
     letter-spacing: 0.07em;
     margin-top: 0rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 }
  
@@ -219,8 +219,8 @@ b {
   width: 50%;
   font-family: $graphik;
   font-weight: 100;
-  font-size: 1.5rem;
-  height: 50%;
+  font-size: 1.6rem;
+  height: 40%;
   background-color: #fff;
   color: #000;
   border-radius: 2rem;
@@ -233,7 +233,7 @@ b {
   z-index: 100000;
   opacity: 1;
   @media (max-width: 780px) {
-    font-size: 0.95rem;
+    font-size: 1.2rem;
     width: 60%;
     height: 60%;
     top: 15%;
